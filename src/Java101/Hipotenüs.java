@@ -15,6 +15,7 @@ public class Hipotenüs {
         b = input.nextInt();
 
         c = Math.sqrt(Math.pow(a,2) + Math.pow(b,2));
+        c = Math.sqrt(Math.pow(a,2) + Math.pow(b,2));
         System.out.println("Hipotenüs :"+ c);
 
         u = ((a+b+c)/2);
