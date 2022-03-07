@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class HesapMakinesi {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
         int n1, n2;
 
+        Scanner input = new Scanner(System.in);
         System.out.print("İşlem yapacağının ilk sayıyı giriniz : ");
         n1 = input.nextInt();
         System.out.print("İşlem yapacağının ikinci sayıyı giriniz : ");
