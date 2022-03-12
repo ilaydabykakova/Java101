@@ -22,8 +22,7 @@ public class PerfectNumbers {
                 } else {
                     System.out.println(number + " Mükemmel sayı değildir.");
                 }
-            }
-            else {
+            } else {
                 System.out.println("Pozitif sayı olmalıdır.");
             }
 
