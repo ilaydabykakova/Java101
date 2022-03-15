@@ -3,7 +3,7 @@ package JavaDonguler101;
 
 public class Fibonacci {
     public static void main(String[] args) {
-        int n = 0,result = 0;
+        int result = 0;
         int num1 = 0,num2 = 1;
         for (int i = 1; i<=10;i++) {
             System.out.println(num1 +" + "+ num2 + " = " + result);
