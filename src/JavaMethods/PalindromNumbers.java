@@ -24,7 +24,7 @@ public class PalindromNumbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int inNum;
-       System.out.println("Sayı giriniz: ");
+        System.out.println("Sayı giriniz: ");
         inNum = input.nextInt();
         System.out.print("Result: " + polindromNumber(inNum));
 
