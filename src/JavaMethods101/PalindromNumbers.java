@@ -9,7 +9,7 @@ public class PalindromNumbers {
         while (temp != 0) {
             lastNumber = temp % 10;
             reverseNumber = (reverseNumber * 10) + lastNumber;
-            temp /= 10;;
+            temp /= 10;
         }
         if (reverseNumber == number) {
             System.out.println("Bu sayı palindrom sayıdır.!  ");
