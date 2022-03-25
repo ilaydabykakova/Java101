@@ -19,7 +19,7 @@ public class EbobEkok {
         int i = 1;
         while (i <= (n1 * n2)) {
             if (i % n1 == 0 && i % n2 == 0) {
-                System.out.println(i);
+                System.out.println(i+" ");
                 break;
             }
             i++;

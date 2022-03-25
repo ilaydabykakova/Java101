@@ -1,6 +1,5 @@
-package JavaMethods;
+package JavaMethods101;
 
-import java.util.Optional;
 import java.util.Scanner;
 
 public class PrimeNumbersRecursive {
