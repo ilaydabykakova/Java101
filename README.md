@@ -8,7 +8,7 @@ Bu repo [Patika](https://app.patika.dev/) Java ile Backend Web Development eğit
 
 # Installation
 
-Öncelikle projeyi clonelayın.
+Öncelikle projeyi 
 
 ```
 git clone https://github.com/ilaydabykakova/Java101.git
