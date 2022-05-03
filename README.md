@@ -4,7 +4,8 @@
 Bu repo [Patika](https://app.patika.dev/) Java ile Backend Web Development eğitiminde oluşturduğum repo. İçerisinde ***Java101*** eğitimindeki ödevleri ve bitirme projelerini içeriyor.
 
 
-![Kodluyoruz logo](https://github.com/burakkosova/JavaBackendWebDevelopment/blob/main/figures/kodluyoruz.png)
+![kodluyoruz](https://user-images.githubusercontent.com/22557209/166389958-cd6d3cbe-bc3c-4425-89c9-70baf4a8f6fb.png)
+
 
 # Installation
 
