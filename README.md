@@ -8,7 +8,7 @@ Bu repo Java ile Backend Web Development eğitiminde oluşturduğum repo. İçer
 
 # [Patika](https://app.patika.dev/)
 
-`Patikaya göz atmak istiyorsan [buraya tıkla](https://app.patika.dev/)` 
+Patikaya göz atmak istiyorsan [buraya tıkla](https://app.patika.dev/)
 
 
 # Installation
