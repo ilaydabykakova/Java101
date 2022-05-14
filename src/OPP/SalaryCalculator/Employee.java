@@ -25,7 +25,11 @@ public class Employee {
             tax = salary * 0.03;
         }
         else {
+<<<<<<< HEAD
             System.out.println("You entered invalid salary.");
+=======
+            System.out.println("You entered invalid salary !");
+>>>>>>> origin/newbranch
         }
         return tax;
     }
