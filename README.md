@@ -1,10 +1,16 @@
 
 # Java ile Backend Web Development Patikası (Java 101)
 
-Bu repo [Patika](https://app.patika.dev/) Java ile Backend Web Development eğitiminde oluşturduğum repo. İçerisinde ***Java101*** eğitimindeki ödevleri ve bitirme projelerini içeriyor.
+Bu repo Java ile Backend Web Development eğitiminde oluşturduğum repo. İçerisinde ***Java101*** eğitimindeki ödevleri ve bitirme projelerini içeriyor.
 
 
-![Kodluyoruz logo](https://github.com/burakkosova/JavaBackendWebDevelopment/blob/main/figures/kodluyoruz.png)
+![kodluyoruz](https://user-images.githubusercontent.com/22557209/166389958-cd6d3cbe-bc3c-4425-89c9-70baf4a8f6fb.png)
+
+
+# [Patika](https://app.patika.dev/)
+
+Patikaya göz atmak istiyorsanız [buraya tıklayabilirsiniz.](https://app.patika.dev/)
+
 
 # Installation
 
@@ -13,6 +19,7 @@ Bu repo [Patika](https://app.patika.dev/) Java ile Backend Web Development eğit
 ```
 git clone https://github.com/ilaydabykakova/Java101.git
 ```
+
 
 # Usage
 
@@ -25,9 +32,11 @@ cd Java101
 code .
 ```
 
+
 # Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
 
 # License
 
