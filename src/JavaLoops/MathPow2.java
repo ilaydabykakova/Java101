@@ -1,6 +1,5 @@
-package JavaDonguler101;
+package JavaLoops;
 import java.util.Scanner;
-import java.util.concurrent.ForkJoinPool;
 
 public class MathPow2 {
     public static void main(String[] args) {

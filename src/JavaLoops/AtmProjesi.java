@@ -1,4 +1,4 @@
-package JavaDonguler101;
+package JavaLoops;
 import java.lang.String;
 import java.util.Scanner;
 
