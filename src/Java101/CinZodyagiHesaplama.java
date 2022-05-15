@@ -1,4 +1,4 @@
-package JavaStart;
+package Java101;
 import java.util.Scanner;
 
 public class CinZodyagiHesaplama {
