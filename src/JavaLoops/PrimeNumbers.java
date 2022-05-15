@@ -1,4 +1,4 @@
-package JavaDonguler101;
+package JavaLoops;
 
 public class PrimeNumbers {
     public static void main(String[] args) {

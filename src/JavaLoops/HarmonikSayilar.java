@@ -1,4 +1,4 @@
-package JavaDonguler101;
+package JavaLoops;
 import java.util.Scanner;
 public class HarmonikSayilar {
     public static void main(String[] args) {

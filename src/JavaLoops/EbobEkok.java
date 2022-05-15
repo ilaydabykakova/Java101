@@ -1,7 +1,6 @@
-package JavaDonguler101;
+package JavaLoops;
 
 
-import java.awt.*;
 import java.util.Scanner;
 
 public class EbobEkok {
