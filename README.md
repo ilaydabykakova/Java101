@@ -17,7 +17,7 @@ Patikaya göz atmak istiyorsanız [buraya tıklayabilirsiniz.](https://app.patik
 Öncelikle projeyi clonelayın.
 
 ```
-git clone https://github.com/ilaydabykakova/Java101.git
+git clone https://github.com/ilaydabykakova/PatikaJava101.git
 ```
 
 
@@ -28,7 +28,7 @@ Projeyi cloneladıktan sonra IntelliJ IDEA programında açınız.
 Linux için:
 
 ```
-cd Java101
+cd PatikaJava101
 code .
 ```
 
